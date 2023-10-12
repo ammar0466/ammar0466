@@ -18,7 +18,7 @@ One day, I stumbled upon a website brimming with valuable data for marketing. My
 
 That's when Python entered the scene. With no prior knowledge of programming and a burning desire to automate data extraction, I began my self-taught journey into coding. It was challenging, but the thought of creating something that could make tasks easier was exhilarating.
 
-:tools: **Building My Own Tools**
+🛠️: **Building My Own Tools**
 
 My journey took an interesting turn when I purchased a tool that was almost perfect - but not quite. I needed additional features, and when I learned that implementing them would take time, I took matters into my own hands. With Python as my ally, I attempted to replicate and even enhance the tool, tailoring it to my needs.
 
