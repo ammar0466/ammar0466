@@ -24,7 +24,7 @@ My journey took an interesting turn when I purchased a tool that was almost perf
 
 :rocket: **Where I Am Now**
 
-Today, I stand amidst the world of tech with a newfound love for programming, still a marketer at heart but with a coder’s mindset. I've realized that programming is not just about writing code; it's about solving problems, creating efficiency, and bringing ideas to life.
+Today, I stand amidst the world of tech with a newfound love for programming, still a sales-marketer at heart but with a coder’s mindset. I've realized that programming is not just about writing code; it's about solving problems, creating efficiency, and bringing ideas to life.
 
 :mag: **Looking Ahead**
 
